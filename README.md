@@ -12,7 +12,7 @@ The objective of this project is to analyze Uber ride data to:
 
 - Provide actionable insights for stakeholders.
 
-## 🧪 Key Analyses
+## 🧪 Key Analysis
 1. Temporal Analysis
 - Extracted date and time components.
 
